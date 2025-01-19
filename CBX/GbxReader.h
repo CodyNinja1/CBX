@@ -140,6 +140,7 @@ namespace CBX
 			else
 			{
 				ParseHeader();
+				this->FileStream->close();
 			}
 		}
 
