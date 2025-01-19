@@ -11,6 +11,10 @@ namespace CBX
 			{
 				throw new std::exception();
 			}
+			else
+			{
+
+			}
 		}
 	};
 }
